@@ -1,4 +1,4 @@
-# ImageCleaner
+# PhotoLibraryCleaner
 Simple Python Tool to clean and organize image library using CV
 
 Features
