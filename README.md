@@ -11,4 +11,6 @@ Todo
 Usage:
 python image_diff.py --folder images_folder
 
+Contributors:
+Richa Agrawal
 
